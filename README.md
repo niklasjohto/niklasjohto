@@ -1,4 +1,5 @@
-I code once in a while, usually in typescript or c#, <br>
-I mess with network stuff sometimes as well 🌿
+`println!("Hello World!");` I'm Niklas, I usually go by niklasjohto online
 
-Currently learning next.js and Rust
+My preferred languages are TypeScript & Rust, my goto framework is React/Next.js
+
+In my free time I usually take care of my many plants 🌱
